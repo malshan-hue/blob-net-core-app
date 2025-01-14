@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blob-net-core-app", "blob-net-core-app.csproj", "{AD2E2C8E-79A8-4916-B87F-BBC73407D1E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD2E2C8E-79A8-4916-B87F-BBC73407D1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2E2C8E-79A8-4916-B87F-BBC73407D1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2E2C8E-79A8-4916-B87F-BBC73407D1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2E2C8E-79A8-4916-B87F-BBC73407D1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F84DAF9-89C5-4A2B-B653-192DC1A83B03}
+	EndGlobalSection
+EndGlobal
